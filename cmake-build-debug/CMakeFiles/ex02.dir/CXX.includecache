@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/regina/Desktop/CPP0/ex02/Account.cpp
+Account.hpp
+/Users/regina/Desktop/CPP0/ex02/Account.hpp
+
+/Users/regina/Desktop/CPP0/ex02/Account.hpp
+iostream
+-
+time.h
+-
+

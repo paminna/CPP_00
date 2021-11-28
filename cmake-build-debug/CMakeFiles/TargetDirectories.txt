@@ -1,0 +1,4 @@
+/Users/regina/Desktop/CPP0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/regina/Desktop/CPP0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/regina/Desktop/CPP0/cmake-build-debug/CMakeFiles/ex02.dir
+/Users/regina/Desktop/CPP0/cmake-build-debug/CMakeFiles/untitled.dir
